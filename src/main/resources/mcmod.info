@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MCmodding",
+  "name": "Mod Learning",
+  "description": "Just a experiment mod for learning mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["alanqq0624"],
+  "credits": "Create by alanqq0624",
+  "logoFile": "assets/MCmodding/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
